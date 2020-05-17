@@ -77,7 +77,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-     [:yukihiro_matsumoto].keys = { }
+     [:yukihiro_matsumoto] = { }
 
 end
 
