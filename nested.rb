@@ -77,7 +77,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-     adding_matz => {:yukihiro_matsumoto}
+     adding_matz => [:grace_hopper, :alan_kay, :dennis_ritchie][:yukihiro_matsumoto]
 
 end
 
